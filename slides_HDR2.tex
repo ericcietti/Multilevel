@@ -241,7 +241,7 @@ in numerical optimization}}
         $n$ \alert{very large} 
       
        
-       \vspace{2mm}
+       \vspace{0.65cm}
        \begin{tiny}
        {\bf Examples:}
        \begin{itemize}
@@ -262,13 +262,15 @@ in numerical optimization}}
         ]
         
     \vspace{0.1cm}
-        
-  Hierarchically structured problems
+     \centering   
+  \alert{Hierarchically structured} problems
     
            
     \centering
    %   \includegraphics[width=0.7\textwidth]{MG}\\
-  \includegraphics[width=\textwidth]{figures/structured}
+  \includegraphics[width=0.6\textwidth]{figures/grids.png}
+   % \includegraphics[width=\textwidth]{figures/structured}
+
    \vspace{-0.25cm}
   \phantom{a}
 \end{tcolorbox}
@@ -520,11 +522,21 @@ the \alert{Galerkin condition}.
 
 
 \begin{frame}{From linear to nonlinear: multilevel methods}
-	
-	 
+	\begin{tcolorbox}[
+        %title={\faExclamationTriangle\ Stochastic problems},
+    colback=gray!10,
+    colframe=gray!70!black,
+        fonttitle=\bfseries,
+]
+
+
+$$
+	\min_{x\in\mathbb{R}^n}f(x)
+	$$
+	 \end{tcolorbox}
 	%Classical \alert{iterative} optimization methods:
 	\begin{itemize}
-	\item Build a \alert{model} ($B_k\sim \nabla^2 f(x_k)$ or $B_k=0$):
+	\item Build a \alert{model} ($B_k\approx \nabla^2 f(x_k)$ or $B_k=0$):
 	\begin{equation*}
 	f(x_k+s)\simeq T_{k}(s)=f(x_k)+s^T\nabla f(x_k)+\frac{1}{2}s^TB_ks
 	\end{equation*}
@@ -1124,17 +1136,20 @@ Multilevel extension: {\small
 \end{itemize}
 \end{tcolorbox}
 \end{footnotesize}
-\footnotesize{ \textcolor{mygreen}{Laurent, Tachella, R., Pustelnik, IEEE TCI, 2025}}
+
+\vspace{0.1cm}
+\footnotesize{ \textcolor{mygreen}{[Laurent, Tachella, R., Pustelnik, IEEE TCI, 2025]}}
 
 
 \end{frame}
 
 \begin{frame}{Still much to do!}
-\begin{itemize}
-\item Extension to generic \alert{fixed-point schemes }
-\item  Convergence of the \alert{ iterates}
-\item  \alert{Higher order/preconditioned} non-smooth methods
-\end{itemize}
+%\begin{itemize}
+%\item Extension to generic \alert{fixed-point schemes }
+%\item  Convergence of the \alert{iterates}
+%\item  \alert{Higher order/preconditioned} non-smooth methods
+%\end{itemize}
+\includegraphics[width=\textwidth]{figures/perspectives5}
 
 \end{frame}
 
@@ -1286,7 +1301,7 @@ $\overline{x}$ & z&  $\widehat{x}$
 
 How to define a hierarchy? 
 \begin{itemize}
-\item Hyperspectral images
+\item Hyperspectral imaging
 \item Radio-interferometry
 \end{itemize}
 
@@ -1330,7 +1345,7 @@ How to define a hierarchy?
 \end{comment}
 
 
-\begin{frame}{Hyperspectral images}
+\begin{frame}{1) Hyperspectral imaging}
 
 
 \begin{columns}
@@ -1359,7 +1374,7 @@ How to define a hierarchy?
     ]
 
 $$
-\widehat{x} \in\underset{x}{\arg\min}\; \underbrace{\frac{1}{2}\Vert \alert{A} x - z \Vert_2^2}_{L} + \underbrace{\lambda \sum_i\| (\alert{D} x)(i)\|_\star}_{S}
+f(x)= \underbrace{\frac{1}{2}\Vert \alert{A} x - z \Vert_2^2}_{L} + \underbrace{\lambda \sum_i\| (\alert{D} x)(i)\|_\star}_{S}
 $$
 
 \end{tcolorbox}
@@ -1387,6 +1402,7 @@ $$
       %\begin{equation*}
          %   (\forall x\in \mathbb{R}^{N}) \quad  g(\D x) = \sum_{i=1}^{N} \Vert (\D x)^i \Vert_{*}
         %\end{equation*}
+
 \end{frame}
 \begin{frame}{How to build the hierarchy?}
 \mbox{} \\
@@ -1458,9 +1474,8 @@ The blocks of $A_h$ are decimated to construct the blocks of $A_H$.
 \begin{frame}{Objective function evolution}
   %  \includegraphics[trim={3em 2.5em 0 0},clip,width=1\textwidth]{images//FHCPU_IChris_L1nuclearNLTV_0.01_EN-crop.pdf}
   \centering
-\includegraphics[width=\textwidth]{figures/hyper_f}
+\includegraphics[width=\textwidth]{figures/hyper_f3}
 
-\vspace{0.5cm}
 %\begin{footnotesize}
 %	\begin{thebibliography}{9}
 %		\setbeamertemplate{bibliography item}[article]
@@ -1469,7 +1484,6 @@ The blocks of $A_h$ are decimated to construct the blocks of $A_H$.
 %	\end{footnotesize}
 
 
-\small{ \textcolor{mygreen}{[Lauga, R., Pustelnik, Gonçalves, GRETSI, 2023]}}
 
 \end{frame}
 }
@@ -1490,29 +1504,32 @@ The blocks of $A_h$ are decimated to construct the blocks of $A_H$.
 $$
 \text{PSNR} \bm{\uparrow}
 $$
+\vspace{0.5cm}
+
+        \small{ \textcolor{mygreen}{[Lauga, R., Pustelnik, Gonçalves, GRETSI, 2023]}}
+
 \end{frame}
 
-\subsection{Radio-interferometric imaging}
+%\subsection{Radio-interferometric imaging}
 
 
-\begin{frame}{Radio-interferometric imaging}
+\begin{frame}{2) Radio-interferometric imaging}
 \centering
 \includegraphics[width=\textwidth, trim=0 2cm 0 0, clip]{RI}
 $$
-\min_x f_i(x)=\frac{1}{2}\|A x-z\|^2+\|W_iD^*x\|_1+i_{\mathbb{R}^n_+}(x)
+ f_i(x)=\frac{1}{2}\|A x-z\|^2+\|W_iD^*x\|_1+i_{\mathbb{R}^n_+}(x), \quad x\in\mathbb{R}^n
 $$
 
 
 \alert{Dimension bottleneck: number of observations}
 $$
-\min_x f_i^H(x)=\frac{1}{2}\|\alert{R}(A x-z)\|^2
+ f_i^H(x)=\frac{1}{2}\|\alert{R}(A x-z)\|^2, \quad x\in\mathbb{R}^n
 $$
 \end{frame}
 
 \begin{frame}{Building the hierarchy}
 \centering
 \includegraphics[width=\textwidth]{RI2}
-\small{ \textcolor{mygreen}{[G. Lauga, A. Repetti, E. Riccietti, N. Pustelnik, P. Gonçalves, Y. Wiaux, EUSIPCO, 2024]}}
 
 \end{frame}
 %\begin{frame}{Building the hierarchy}
@@ -1531,7 +1548,7 @@ $$
 
 \begin{frame}{Numerical results: objective function}
 \centering
-\includegraphics[width=\textwidth]{figures/RI_new}%RI6
+\includegraphics[width=\textwidth]{figures/RI_f}%RI6
 
 
 \end{frame}
@@ -1542,6 +1559,11 @@ $$
 $$
 \text{PSNR (dB)} \bm{\uparrow}
 $$
+
+\vspace{0.5cm}
+\scriptsize{ \textcolor{mygreen}{[Lauga, Repetti, R., Pustelnik, Gonçalves,  Wiaux, EUSIPCO, 2024]}}
+
+
 \end{frame}
 
 
@@ -1566,8 +1588,10 @@ f_{z_i,y_i}(\theta)&:= L(\sigma\circ(W_L z_i -b_L)\circ\dots\circ\sigma\circ(W_1
 %for a set of data $\{(x_i,y_i)\}_{i=1}^m$ and a loss function $\mathcal{L}$.
 
 \centering
-\includegraphics[scale=0.15]{figures/proj_learning3}
-	 \small{ \textcolor{mygreen}{[  Marini, Porcelli, R., MathComp, 2026]}}
+%\includegraphics[scale=0.15]{figures/proj_learning3}
+%\includegraphics[scale=0.15]{figures/learning_hierarchy}
+\includegraphics[scale=0.15]{figures/learning_hierarchy2}
+
 
 	
 	\end{frame}
@@ -1595,9 +1619,9 @@ f_{z_i,y_i}(\theta)&:= L(\sigma\circ(W_L z_i -b_L)\circ\dots\circ\sigma\circ(W_1
 
 \begin{table}
 \begin{tabular}{lc}
-Find $\theta$ such that  $ h_z(\theta)\approx u(z)$ for all $z\in\Omega$ & Training data\\
+Find $\theta$ such that  $ u_{\theta}(z)\approx u(z)$ for all $z\in\Omega$ & Training data\\
 
-    \includegraphics[scale=0.15]{figures/pinn_schema2}&
+    \includegraphics[scale=0.18]{figures/pinn_schema2}&
    
     \includegraphics[scale=0.15]{images/sampling2.png}
    \end{tabular}
@@ -1612,10 +1636,10 @@ $\displaystyle{\min_\theta  f_{z,y}(\theta)={ \color{red} L_{OBS}(\theta)}+{ \co
    
 \begin{footnotesize}
 \begin{align*}
- { \color{red} L_{OBS}(\theta)} & {\small =\gamma_1\sum_{z_i\in\Omega \cup  \partial \Omega} (h_\theta(z_i)-y_i)^2},  \\ 
-  {\color{orange} L_{PDE}(\theta)}&{\small=\gamma_{2}\sum_{z_i\in \Omega}(\mathcal{L}(h_{z_i}(\theta))-\phi(z_i))^2}
+ { \color{red} L_{OBS}(\theta)} & {\small =\gamma_1\sum_{z_i\in\Omega \cup  \partial \Omega} (u_{\theta}(z_i)-y_i)^2},  \\ 
+  {\color{orange} L_{PDE}(\theta)}&{\small=\gamma_{2}\sum_{z_i\in \Omega}(\mathcal{L}(u_{\theta}(z_i))-\phi(z_i))^2}
   \\
-  {\color{blue} L_{BC}(\theta)}&{\small =\gamma_{3} \sum_{z_i\in \partial\Omega}(\mathcal{B}(h_{z_i}(\theta))-\psi(z_i))^2}
+  {\color{blue} L_{BC}(\theta)}&{\small =\gamma_{3} \sum_{z_i\in \partial\Omega}(\mathcal{B}(u_{\theta}(z_i))-\psi(z_i))^2}
 \end{align*}
    \end{footnotesize}
 
@@ -1645,7 +1669,7 @@ $\displaystyle{\min_\theta  f_{z,y}(\theta)={ \color{red} L_{OBS}(\theta)}+{ \co
 				
 
 \begin{figure}
-\includegraphics[width=\textwidth]{images/spectral_bias.pdf}
+\includegraphics[width=\textwidth]{figures/spectral_bias}
 %  \caption{
    % The network prediction $u_{\theta}$ (purple) is reported at training iterations 100 (left), 1500 (middle), and 7500 (right).}
     %\label{fig:spectral_bias}
@@ -1757,7 +1781,8 @@ $\displaystyle{\min_\theta  f_{z,y}(\theta)={ \color{red} L_{OBS}(\theta)}+{ \co
 
  \begin{frame}{A multigrid inspired  BCD training algorithm}
  %\includegraphics[width=\textwidth]{figures/MG_BCD}
- \includegraphics[width=\textwidth]{figures/schema_BCD}
+% \includegraphics[width=\textwidth]{figures/schema_BCD}
+ \includegraphics[width=\textwidth]{figures/BCD_MG}
  
  	\begin{tcolorbox}[
         title={Theoretical results},
@@ -1867,11 +1892,15 @@ $p$ coarse iterations, $\sigma^2$ variance of stochastic gradient
 
 
 \begin{frame}{Numerical results: final MSE on average (10 runs)}
- Problem: Poisson (left) and heat problem (right)
+ 
 \begin{figure}
 %\includegraphics[width=0.45\linewidth]{figures/graph_poisson_new}
 %\includegraphics[width=0.45\linewidth]{figures/graph_heat_new}
-\includegraphics[width=\linewidth]{figures/exp_mscale}
+%\includegraphics[width=\linewidth]{figures/exp_mscale}
+%\includegraphics[width=\linewidth]{figures/BCD_MG_plot}
+%\includegraphics[width=\linewidth]{figures/BCD_MG_heat}
+\includegraphics[width=\linewidth]{figures/BCD_MG_pb}
+
 %\includegraphics[width=0.45\linewidth]{figures/graph_heat_new}
 \end{figure}
 
@@ -2233,7 +2262,8 @@ Given a dense matrix $A$, find \emph{sparse} factors $S_1, S_2, \ldots, S_J$ s.t
 \vfill
 
 		
-		\item There is a family of \emph{polynomially solvable} instances and  an  \emph{efficient algorithm} to solve them
+		\item \alt<2->{  \fbox{\parbox{0.85\textwidth}{There is a family of \textcolor{red}{polynomially solvable} instances and  an  \textcolor{red}{efficient algorithm} to solve them}}
+}{There is a family of \textcolor{red}{polynomially solvable} instances and  an  \textcolor{red}{efficient algorithm} to solve them}
 		
 		\vfill
 		\item Some properties of the \textcolor{red}{landscape} of the function $L(X,Y) = \|A - XY^\top\|^2$ \emph{under the support constraints} are known, which help to understand how well \emph{gradient descent} tackles the problem of FSMF
@@ -2242,37 +2272,13 @@ Given a dense matrix $A$, find \emph{sparse} factors $S_1, S_2, \ldots, S_J$ s.t
 		
 	\end{enumerate}
 			
-		 \small{ \textcolor{mygreen}{[Zheng, R., Gribonval, SIMODS, 2023]}}, 
- \small{ \textcolor{mygreen}{[Le, R., Gribonval, SIMAX, 2023] }}
+			\vspace{0.2cm}
+		 \footnotesize{ \textcolor{mygreen}{[Zheng, R., Gribonval, SIMODS, 2023]}}, 
+ \footnotesize{ \textcolor{mygreen}{[Le, R., Gribonval, SIMAX, 2023] }}
 					
 	
 \end{frame}
 
-\begin{frame}{My contributions}
-		
-		\begin{enumerate}
-				\item The problem is  \emph{NP-hard}.
-		\vfill
-		
-		\item The problem has an  \textcolor{red}{essentially unique solution} in the exact case
-
-\vfill
-
-		
-		\item  \fbox{\parbox{0.85\textwidth}{There is a family of \emph{polynomially solvable} instances and  an  \emph{efficient algorithm} to solve them}}
-		
-		\vfill
-		\item Some properties of the \emph{landscape} of the function $L(X,Y) = \|A - XY^\top\|^2$ \emph{under the support constraints} are known, which help to understand how well \textcolor{red}{gradient descent} tackles the problem of FSMF
-		
-		
-		
-	\end{enumerate}
-		
-		
-			 \small{ \textcolor{mygreen}{[Zheng, R., Gribonval, SIMODS, 2023]}}, 
- \small{ \textcolor{mygreen}{[Le, R., Gribonval, SIMAX, 2023]}}
-	
-\end{frame}
 
 
 \begin{comment}
@@ -2522,7 +2528,7 @@ where the rank-one matrices $x_iy_i^T$ have disjoint support.
 
  \end{tcolorbox}}
 		
-		 \small{ \textcolor{mygreen}{[Le, Zheng, R., Gribonval, ICASSP, 2022 and SIMAX, 2025]}}
+		\onslide<5->{ \small{ \textcolor{mygreen}{[Le, Zheng, R., Gribonval, ICASSP, 2022 and SIMAX, 2025]}}}
 		  
 	\end{frame}
 	
@@ -2834,25 +2840,28 @@ $$
     
   \includegraphics[width=\textwidth]{figures/table_precisions}
 
-\vspace{0.3cm}
+\vspace{0.6cm}
 
 \begin{columns}
 \begin{column}{0.5\textwidth}
   Low precisions 
   \begin{itemize}
-   \item[\textcolor{green}{\faSmile}]  Reduction of energy and increased speed 
-     \item[\textcolor{red}{\faFrown}]      Loss of accuracy
+   \item[\textcolor{green}{\faSmile}]  \alert{Reduction} of energy and increased speed 
+     \item[\textcolor{red}{\faFrown}]      \alert{Loss} of accuracy
   \end{itemize}
   \end{column}
   \begin{column}{0.5\textwidth}
   $\rightarrow$ Mixed precision
   \begin{itemize}
-  \item Forward pass of neural networks \small{ \textcolor{mygreen}{[El Arar, Filip, Mary, R., IMAJNA, 2026]}}
-  \item Newton's method
-  \end{itemize}
+  \item Forward pass of neural networks \footnotesize{ \textcolor{mygreen}{[El Arar, Filip, Mary, R., IMAJNA, 2026]}}
+\item \alt<2->{\fbox{Newton's method}}{Newton's method}
+ \end{itemize}
    \end{column}
     \end{columns}
 \end{frame}
+
+
+
 
 \begin{comment}
 \begin{frame}{My contribution (I): mixed precision inference}
@@ -2965,10 +2974,15 @@ mixed precision opportunity!
 \begin{frame}{Mixed precision Newton's methods}
 
 \begin{tcolorbox}{Newton's method}
-  \begin{align*}
-      &d_i:= -H(x_i)^{-1}g(x_i)\\
-      &x_{i+1}=x_i+d_i
-  \end{align*}
+ % \begin{align*}
+    %  &d_i:= -H(x_i)^{-1}g(x_i)\\
+     % &x_{i+1}=x_i+d_i
+  %\end{align*}
+   \begin{enumerate}
+   \item  Compute $g(x_i)$       
+    \item  Solve $H(x_i)d_i = -g(x_i)$    
+ \item  Update $x_{i+1} = x_i + d_i$ 
+  \end{enumerate}
 \end{tcolorbox}
 
 \begin{tcolorbox}{Error model}
@@ -3011,15 +3025,15 @@ mixed precision opportunity!
       left=1pt, right=1pt, top=1pt, bottom=1pt,
     ]
   \begin{enumerate}
-   \item  Compute $g_i = g(x_i)$        in \textcolor{gray!70!black}{$u_g$} \\
- \item  Solve $H(x_i)d_i \approx -g_i$     in \textcolor{myblue!70!black}{$u_H$} \\
+   \item  Compute $g(x_i)$        in \textcolor{gray!70!black}{$u_g$} \\
+ \item  Solve $H(x_i)d_i \approx -g(x_i)$     in \textcolor{myblue!70!black}{$u_H$} \\
  \item  Update $x_{i+1} = x_i + d_i$  in \textcolor{myyel!70!black}{$u$} \\
   \end{enumerate}
   \end{tcolorbox}
   
   \begin{itemize}
   \item 
-  The setting of interest is
+  The setting of interest is (precision $\propto 1/u$)
   \begin{equation*}
     \tikz[remember picture, baseline=(ug.base)]{\node[inner sep=1pt] (ug) {$u_g$};}
     \;\leq\;
@@ -3040,7 +3054,9 @@ O( u_H) + O(\eta)
 $
 %where $\zeta_i = \norm{H(\widehat{x}_i)}\norm{\widehat{d}_i}/\norm{g(\widehat{x}_i)}$
 \begin{center}
-    \includegraphics[width=.5\linewidth]{figures/Newton_MULTIPLE_ETA.pdf}
+  %  \includegraphics[width=.5\linewidth]{figures/Newton_MULTIPLE_ETA.pdf}
+        \includegraphics[width=.5\linewidth]{figures/in_etas_2.png}
+
 \end{center}
 \end{itemize}
   
@@ -3277,7 +3293,7 @@ hierarchies constitute a \alert{powerful and versatile paradigm}
 
 	
 \begin{frame}{Some perspectives }
-    \includegraphics[width=\linewidth]{figures/perspectives3.pdf}
+    \includegraphics[width=\linewidth]{figures/perspectives4.pdf}
 
 \end{frame}	
 		

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.26)  22 SEP 2026 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.26)  24 SEP 2026 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1464,7 +1464,7 @@ thkerncmss.
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
 (Font)              using `U/stmry/m/n' instead on input line 219.
 
-<../../loghi_firme/logo.png, id=78, 348.30125pt x 145.54375pt>
+<../../loghi_firme/logo.png, id=74, 348.30125pt x 145.54375pt>
 File: ../../loghi_firme/logo.png Graphic file (type png)
 <use ../../loghi_firme/logo.png>
 Package pdftex.def Info: ../../loghi_firme/logo.png  used on input line 219.
@@ -1480,7 +1480,7 @@ o.pdf>
 -eps-converted-to.pdf ../MPINNs_sorbonne/unc_sol.eps>
 (epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
-<../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf, id=79, 449.68pt x 338.26375pt
+<../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf, id=75, 449.68pt x 338.26375pt
 >
 File: ../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf>
@@ -1498,7 +1498,7 @@ pdf>
 ps-converted-to.pdf ../MPINNs_sorbonne/sol_2.eps>
 (epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
-<../MPINNs_sorbonne/sol_2-eps-converted-to.pdf, id=80, 449.68pt x 338.26375pt>
+<../MPINNs_sorbonne/sol_2-eps-converted-to.pdf, id=76, 449.68pt x 338.26375pt>
 File: ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf  used on
@@ -1515,7 +1515,7 @@ pdf>
 ps-converted-to.pdf ../MPINNs_sorbonne/sol_1.eps>
 (epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
-<../MPINNs_sorbonne/sol_1-eps-converted-to.pdf, id=81, 449.68pt x 338.26375pt>
+<../MPINNs_sorbonne/sol_1-eps-converted-to.pdf, id=77, 449.68pt x 338.26375pt>
 File: ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf  used on
@@ -1528,27 +1528,23 @@ Package pdftex.def Info: ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf  used on
  <../../loghi_firme/logo.png> <../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf>
  <../MPINNs_sorbonne/sol_2-eps-converted-to.pdf> <../MPINNs_sorbonne/sol_1-eps-
 converted-to.pdf>]
-Underfull \hbox (badness 2088) in paragraph at lines 291--291
-[]\OT1/cmss/m/n/10.95 Hierarchically struc-tured
- []
-
-<figures/structured.pdf, id=107, 606.265pt x 323.2075pt>
-File: figures/structured.pdf Graphic file (type pdf)
-<use figures/structured.pdf>
-Package pdftex.def Info: figures/structured.pdf  used on input line 291.
-(pdftex.def)             Requested size: 116.19987pt x 61.94762pt.
+<figures/grids.png, id=103, 1493.58pt x 1580.90625pt>
+File: figures/grids.png Graphic file (type png)
+<use figures/grids.png>
+Package pdftex.def Info: figures/grids.png  used on input line 293.
+(pdftex.def)             Requested size: 69.72063pt x 73.7912pt.
 
 
 [2
 
- <./figures/structured.pdf>]
-<figures/WPs.pdf, id=124, 1845.89626pt x 1048.91875pt>
+ <./figures/grids.png>]
+<figures/WPs.pdf, id=116, 1845.89626pt x 1048.91875pt>
 File: figures/WPs.pdf Graphic file (type pdf)
 <use figures/WPs.pdf>
-Package pdftex.def Info: figures/WPs.pdf  used on input line 304.
+Package pdftex.def Info: figures/WPs.pdf  used on input line 306.
 (pdftex.def)             Requested size: 313.79822pt x 178.31383pt.
 
-Overfull \hbox (6.50835pt too wide) in paragraph at lines 304--304
+Overfull \hbox (6.50835pt too wide) in paragraph at lines 306--306
  [] 
  []
 
@@ -1561,30 +1557,38 @@ Overfull \hbox (6.50835pt too wide) in paragraph at lines 304--304
 [4
 
 ]
-<../POPILS/images/grid2.png, id=142, 462.528pt x 346.896pt>
+<../POPILS/images/grid2.png, id=134, 462.528pt x 346.896pt>
 File: ../POPILS/images/grid2.png Graphic file (type png)
 <use ../POPILS/images/grid2.png>
-Package pdftex.def Info: ../POPILS/images/grid2.png  used on input line 359.
+Package pdftex.def Info: ../POPILS/images/grid2.png  used on input line 361.
 (pdftex.def)             Requested size: 117.9987pt x 88.497pt.
 
 
 [5
 
  <../POPILS/images/grid2.png>]
-<figures/MG.pdf, id=153, 1787.67876pt x 1092.08pt>
+<figures/MG.pdf, id=145, 1787.67876pt x 1092.08pt>
 File: figures/MG.pdf Graphic file (type pdf)
 <use figures/MG.pdf>
-Package pdftex.def Info: figures/MG.pdf  used on input line 411.
+Package pdftex.def Info: figures/MG.pdf  used on input line 413.
 (pdftex.def)             Requested size: 307.28987pt x 187.71745pt.
 
 
 [6
 
  <./figures/MG.pdf>]
+Overfull \vbox (3.1916pt too high) detected at line 576
+ []
+
+
 
 [7
 
 ]
+Overfull \vbox (3.1916pt too high) detected at line 576
+ []
+
+
 
 [8
 
@@ -1600,14 +1604,14 @@ pdf>
 (epstopdf)                    size: 530607 bytes
 (epstopdf)             Command: <repstopdf --outfile=../MPINNs_sorbonne/sol_6-e
 ps-converted-to.pdf ../MPINNs_sorbonne/sol_6.eps>
-(epstopdf)             \includegraphics on input line 634.
+(epstopdf)             \includegraphics on input line 646.
 Package epstopdf Info: Output file is already uptodate.
-<../MPINNs_sorbonne/sol_6-eps-converted-to.pdf, id=177, 449.68pt x 338.26375pt>
+<../MPINNs_sorbonne/sol_6-eps-converted-to.pdf, id=169, 449.68pt x 338.26375pt>
 
 File: ../MPINNs_sorbonne/sol_6-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/sol_6-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/sol_6-eps-converted-to.pdf  used on
- input line 634.
+ input line 646.
 (pdftex.def)             Requested size: 55.31094pt x 41.6067pt.
 File: ../MPINNs_sorbonne/grid-13.mps Graphic file (type mps)
  [MP to PDF]
@@ -1621,12 +1625,12 @@ o.pdf>
 (epstopdf)                    size: 37882 bytes
 (epstopdf)             Command: <repstopdf --outfile=../MPINNs_sorbonne/unc_sol
 -eps-converted-to.pdf ../MPINNs_sorbonne/unc_sol.eps>
-(epstopdf)             \includegraphics on input line 634.
+(epstopdf)             \includegraphics on input line 646.
 Package epstopdf Info: Output file is already uptodate.
 File: ../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/unc_sol-eps-converted-to.pdf  used 
-on input line 634.
+on input line 646.
 (pdftex.def)             Requested size: 55.31094pt x 41.6067pt.
 File: ../MPINNs_sorbonne/grid-12.mps Graphic file (type mps)
  [MP to PDF] (../MPINNs_sorbonne/grid-12.mps)
@@ -1639,12 +1643,12 @@ pdf>
 (epstopdf)                    size: 7501 bytes
 (epstopdf)             Command: <repstopdf --outfile=../MPINNs_sorbonne/sol_2-e
 ps-converted-to.pdf ../MPINNs_sorbonne/sol_2.eps>
-(epstopdf)             \includegraphics on input line 634.
+(epstopdf)             \includegraphics on input line 646.
 Package epstopdf Info: Output file is already uptodate.
 File: ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/sol_2-eps-converted-to.pdf  used on
- input line 634.
+ input line 646.
 (pdftex.def)             Requested size: 55.31094pt x 41.6067pt.
 File: ../MPINNs_sorbonne/grid-11.mps Graphic file (type mps)
 
@@ -1658,32 +1662,32 @@ pdf>
 (epstopdf)                    size: 5910 bytes
 (epstopdf)             Command: <repstopdf --outfile=../MPINNs_sorbonne/sol_1-e
 ps-converted-to.pdf ../MPINNs_sorbonne/sol_1.eps>
-(epstopdf)             \includegraphics on input line 634.
+(epstopdf)             \includegraphics on input line 646.
 Package epstopdf Info: Output file is already uptodate.
 File: ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf Graphic file (type pdf)
 <use ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf>
 Package pdftex.def Info: ../MPINNs_sorbonne/sol_1-eps-converted-to.pdf  used on
- input line 634.
+ input line 646.
 (pdftex.def)             Requested size: 55.31094pt x 41.6067pt.
 
 
 [9
 
  <../MPINNs_sorbonne/sol_6-eps-converted-to.pdf>]
-<figures/iter_fine2.pdf, id=197, 1932.21875pt x 811.03pt>
+<figures/iter_fine2.pdf, id=189, 1932.21875pt x 811.03pt>
 File: figures/iter_fine2.pdf Graphic file (type pdf)
 <use figures/iter_fine2.pdf>
-Package pdftex.def Info: figures/iter_fine2.pdf  used on input line 730.
+Package pdftex.def Info: figures/iter_fine2.pdf  used on input line 742.
 (pdftex.def)             Requested size: 307.28987pt x 128.97542pt.
 
 
 [10
 
  <./figures/iter_fine2.pdf>]
-<figures/coarse_step.pdf, id=208, 1653.17625pt x 1043.9pt>
+<figures/coarse_step.pdf, id=200, 1653.17625pt x 1043.9pt>
 File: figures/coarse_step.pdf Graphic file (type pdf)
 <use figures/coarse_step.pdf>
-Package pdftex.def Info: figures/coarse_step.pdf  used on input line 742.
+Package pdftex.def Info: figures/coarse_step.pdf  used on input line 754.
 (pdftex.def)             Requested size: 307.28987pt x 194.0264pt.
 
 
@@ -1691,11 +1695,11 @@ Package pdftex.def Info: figures/coarse_step.pdf  used on input line 742.
 
  <./figures/coarse_step.pdf>]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 876.
+nput line 888.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
 )
-Overfull \vbox (3.83089pt too high) detected at line 876
+Overfull \vbox (3.83089pt too high) detected at line 888
  []
 
 
@@ -1704,23 +1708,23 @@ Overfull \vbox (3.83089pt too high) detected at line 876
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}]
 
-Overfull \hbox (2.79572pt too wide) detected at line 988
+Overfull \hbox (2.79572pt too wide) detected at line 1000
 [] \OT1/mathkerncmss/m/sl/9 f\OT1/cmss/m/n/9 (\OT1/mathkerncmss/m/sl/9 x\OT1/cm
 ss/m/n/9 )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 988--988
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1000
 \OT1/cmss/m/n/9 with
  []
 
-<figures/schema_new.pdf, id=230, 1589.94pt x 995.72pt>
+<figures/schema_new.pdf, id=222, 1589.94pt x 995.72pt>
 File: figures/schema_new.pdf Graphic file (type pdf)
 <use figures/schema_new.pdf>
-Package pdftex.def Info: figures/schema_new.pdf  used on input line 988.
+Package pdftex.def Info: figures/schema_new.pdf  used on input line 1000.
 (pdftex.def)             Requested size: 254.3956pt x 159.31845pt.
 
-Overfull \hbox (8.56277pt too wide) in paragraph at lines 988--988
+Overfull \hbox (8.56277pt too wide) in paragraph at lines 1000--1000
 [][]  
  []
 
@@ -1731,10 +1735,10 @@ Overfull \hbox (8.56277pt too wide) in paragraph at lines 988--988
  <./figures/schema_new.pdf>]
 File: figures/schema_new.pdf Graphic file (type pdf)
 <use figures/schema_new.pdf>
-Package pdftex.def Info: figures/schema_new.pdf  used on input line 1028.
+Package pdftex.def Info: figures/schema_new.pdf  used on input line 1040.
 (pdftex.def)             Requested size: 254.3956pt x 159.31845pt.
 
-Overfull \vbox (2.42049pt too high) detected at line 1028
+Overfull \vbox (2.42049pt too high) detected at line 1040
  []
 
 
@@ -1746,45 +1750,51 @@ Overfull \vbox (2.42049pt too high) detected at line 1028
 [15
 
 ]
-<figures/pnp.pdf, id=252, 1187.43625pt x 309.155pt>
+<figures/pnp.pdf, id=244, 1187.43625pt x 309.155pt>
 File: figures/pnp.pdf Graphic file (type pdf)
 <use figures/pnp.pdf>
-Package pdftex.def Info: figures/pnp.pdf  used on input line 1130.
+Package pdftex.def Info: figures/pnp.pdf  used on input line 1144.
 (pdftex.def)             Requested size: 237.48305pt x 61.8299pt.
 
 
 [16
 
  <./figures/pnp.pdf>]
+<figures/perspectives5.pdf, id=255, 1845.89626pt x 1048.91875pt>
+File: figures/perspectives5.pdf Graphic file (type pdf)
+<use figures/perspectives5.pdf>
+Package pdftex.def Info: figures/perspectives5.pdf  used on input line 1154.
+(pdftex.def)             Requested size: 307.28987pt x 174.61662pt.
+
 
 [17
 
-]
+ <./figures/perspectives5.pdf>]
 
 [18
 
 ]
-<../POPILS/images/slide1/x_originale-crop.pdf, id=275, 632.3625pt x 593.21625pt
+<../POPILS/images/slide1/x_originale-crop.pdf, id=273, 632.3625pt x 593.21625pt
 >
 File: ../POPILS/images/slide1/x_originale-crop.pdf Graphic file (type pdf)
 <use ../POPILS/images/slide1/x_originale-crop.pdf>
 Package pdftex.def Info: ../POPILS/images/slide1/x_originale-crop.pdf  used on 
-input line 1294.
+input line 1309.
 (pdftex.def)             Requested size: 76.82246pt x 72.04736pt.
-<../POPILS/images/slide1/z_degraded-crop.pdf, id=277, 632.3625pt x 593.21625pt>
+<../POPILS/images/slide1/z_degraded-crop.pdf, id=275, 632.3625pt x 593.21625pt>
 
 File: ../POPILS/images/slide1/z_degraded-crop.pdf Graphic file (type pdf)
 <use ../POPILS/images/slide1/z_degraded-crop.pdf>
 Package pdftex.def Info: ../POPILS/images/slide1/z_degraded-crop.pdf  used on i
-nput line 1294.
+nput line 1309.
 (pdftex.def)             Requested size: 76.82246pt x 72.04736pt.
-<../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf, id=279, 632.3625pt x 593.
+<../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf, id=277, 632.3625pt x 593.
 21625pt>
 File: ../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf Graphic file (type pd
 f)
 <use ../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf>
 Package pdftex.def Info: ../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf  u
-sed on input line 1294.
+sed on input line 1309.
 (pdftex.def)             Requested size: 76.82246pt x 72.04736pt.
 
 
@@ -1792,14 +1802,14 @@ sed on input line 1294.
 
  <../POPILS/images/slide1/x_originale-crop.pdf> <../POPILS/images/slide1/z_degr
 aded-crop.pdf> <../POPILS/images/slide1/x_reconstruiteNLTV-crop.pdf>]
-<../POPILS/images/Hypercube-crop.png, id=302, 509.905pt x 287.0725pt>
+<../POPILS/images/Hypercube-crop.png, id=300, 509.905pt x 287.0725pt>
 File: ../POPILS/images/Hypercube-crop.png Graphic file (type png)
 <use ../POPILS/images/Hypercube-crop.png>
 Package pdftex.def Info: ../POPILS/images/Hypercube-crop.png  used on input lin
-e 1390.
+e 1406.
 (pdftex.def)             Requested size: 125.37418pt x 70.58524pt.
 
-Overfull \vbox (6.7012pt too high) detected at line 1390
+Overfull \vbox (6.7012pt too high) detected at line 1406
  []
 
 
@@ -1807,95 +1817,91 @@ Overfull \vbox (6.7012pt too high) detected at line 1390
 [20
 
  <../POPILS/images/Hypercube-crop.png>]
-<../POPILS/images/TransfertInfoHYSpatial-crop.pdf, id=309, 1720.4275pt x 365.36
+<../POPILS/images/TransfertInfoHYSpatial-crop.pdf, id=307, 1720.4275pt x 365.36
 5pt>
 File: ../POPILS/images/TransfertInfoHYSpatial-crop.pdf Graphic file (type pdf)
 <use ../POPILS/images/TransfertInfoHYSpatial-crop.pdf>
 Package pdftex.def Info: ../POPILS/images/TransfertInfoHYSpatial-crop.pdf  used
- on input line 1399.
+ on input line 1415.
 (pdftex.def)             Requested size: 307.28987pt x 65.25552pt.
 
 
 [21
 
  <../POPILS/images/TransfertInfoHYSpatial-crop.pdf>]
-<../POPILS/images/TransfertInfoHYSpectral-crop.pdf, id=335, 1911.14pt x 411.537
+<../POPILS/images/TransfertInfoHYSpectral-crop.pdf, id=333, 1911.14pt x 411.537
 5pt>
 File: ../POPILS/images/TransfertInfoHYSpectral-crop.pdf Graphic file (type pdf)
 
 <use ../POPILS/images/TransfertInfoHYSpectral-crop.pdf>
 Package pdftex.def Info: ../POPILS/images/TransfertInfoHYSpectral-crop.pdf  use
-d on input line 1399.
+d on input line 1415.
 (pdftex.def)             Requested size: 307.28987pt x 66.1676pt.
 
 
 [22
 
  <../POPILS/images/TransfertInfoHYSpectral-crop.pdf>]
-<figures/hyper_f.pdf, id=361, 1611.01875pt x 742.775pt>
-File: figures/hyper_f.pdf Graphic file (type pdf)
-<use figures/hyper_f.pdf>
-Package pdftex.def Info: figures/hyper_f.pdf  used on input line 1474.
+<figures/hyper_f3.pdf, id=359, 1611.01875pt x 742.775pt>
+File: figures/hyper_f3.pdf Graphic file (type pdf)
+<use figures/hyper_f3.pdf>
+Package pdftex.def Info: figures/hyper_f3.pdf  used on input line 1488.
 (pdftex.def)             Requested size: 307.28987pt x 141.67273pt.
 
 
 [23
 
- <./figures/hyper_f.pdf>]
-<figures/hyper_image.pdf, id=372, 1676.2625pt x 797.98125pt>
+ <./figures/hyper_f3.pdf>]
+<figures/hyper_image.pdf, id=370, 1676.2625pt x 797.98125pt>
 File: figures/hyper_image.pdf Graphic file (type pdf)
 <use figures/hyper_image.pdf>
-Package pdftex.def Info: figures/hyper_image.pdf  used on input line 1493.
+Package pdftex.def Info: figures/hyper_image.pdf  used on input line 1511.
 (pdftex.def)             Requested size: 307.28987pt x 146.28484pt.
 
 
 [24
 
  <./figures/hyper_image.pdf>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1495.
-
-<../../teaching/coursM2/figures/RI.pdf, id=384, 1571.8725pt x 840.13875pt>
+<../../teaching/coursM2/figures/RI.pdf, id=382, 1571.8725pt x 840.13875pt>
 File: ../../teaching/coursM2/figures/RI.pdf Graphic file (type pdf)
 <use ../../teaching/coursM2/figures/RI.pdf>
 Package pdftex.def Info: ../../teaching/coursM2/figures/RI.pdf  used on input l
-ine 1510.
+ine 1528.
 (pdftex.def)             Requested size: 307.28987pt x 153.11829pt.
 
 
 [25
 
  <../../teaching/coursM2/figures/RI.pdf>]
-<../../teaching/coursM2/figures/RI2.pdf, id=398, 1567.8575pt x 714.67pt>
+<../../teaching/coursM2/figures/RI2.pdf, id=396, 1567.8575pt x 714.67pt>
 File: ../../teaching/coursM2/figures/RI2.pdf Graphic file (type pdf)
 <use ../../teaching/coursM2/figures/RI2.pdf>
 Package pdftex.def Info: ../../teaching/coursM2/figures/RI2.pdf  used on input 
-line 1517.
+line 1534.
 (pdftex.def)             Requested size: 307.28987pt x 140.06345pt.
 
 
 [26
 
  <../../teaching/coursM2/figures/RI2.pdf>]
-<figures/RI_new.pdf, id=410, 1159.33125pt x 819.06pt>
-File: figures/RI_new.pdf Graphic file (type pdf)
-<use figures/RI_new.pdf>
-Package pdftex.def Info: figures/RI_new.pdf  used on input line 1537.
-(pdftex.def)             Requested size: 307.28987pt x 217.09985pt.
+<figures/RI_f.pdf, id=408, 1452.42625pt x 1024.82875pt>
+File: figures/RI_f.pdf Graphic file (type pdf)
+<use figures/RI_f.pdf>
+Package pdftex.def Info: figures/RI_f.pdf  used on input line 1554.
+(pdftex.def)             Requested size: 307.28987pt x 216.81541pt.
 
 
 [27
 
- <./figures/RI_new.pdf>]
-<../../teaching/coursM2/figures/RI5.pdf, id=421, 1768.6075pt x 714.67pt>
+ <./figures/RI_f.pdf>]
+<../../teaching/coursM2/figures/RI5.pdf, id=419, 1768.6075pt x 714.67pt>
 File: ../../teaching/coursM2/figures/RI5.pdf Graphic file (type pdf)
 <use ../../teaching/coursM2/figures/RI5.pdf>
 Package pdftex.def Info: ../../teaching/coursM2/figures/RI5.pdf  used on input 
-line 1545.
+line 1567.
 (pdftex.def)             Requested size: 322.65529pt x 130.37984pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 1545--1545
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 1567--1567
  [][] 
  []
 
@@ -1908,117 +1914,117 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 1545--1545
 [29
 
 ]
-<figures/proj_learning3.pdf, id=439, 1625.07124pt x 944.52875pt>
-File: figures/proj_learning3.pdf Graphic file (type pdf)
-<use figures/proj_learning3.pdf>
-Package pdftex.def Info: figures/proj_learning3.pdf  used on input line 1573.
-(pdftex.def)             Requested size: 243.75017pt x 141.67319pt.
+<figures/learning_hierarchy2.pdf, id=437, 1625.07124pt x 958.58125pt>
+File: figures/learning_hierarchy2.pdf Graphic file (type pdf)
+<use figures/learning_hierarchy2.pdf>
+Package pdftex.def Info: figures/learning_hierarchy2.pdf  used on input line 15
+97.
+(pdftex.def)             Requested size: 243.75017pt x 143.78098pt.
 
 
 [30
 
- <./figures/proj_learning3.pdf>]
-<figures/pinn_schema2.pdf, id=450, 1049.9225pt x 391.4625pt>
+ <./figures/learning_hierarchy2.pdf>]
+<figures/pinn_schema2.pdf, id=448, 1049.9225pt x 391.4625pt>
 File: figures/pinn_schema2.pdf Graphic file (type pdf)
 <use figures/pinn_schema2.pdf>
-Package pdftex.def Info: figures/pinn_schema2.pdf  used on input line 1625.
-(pdftex.def)             Requested size: 157.48157pt x 58.71683pt.
-<../POPILS/images/sampling2.png, id=451, 515.9275pt x 514.92375pt>
+Package pdftex.def Info: figures/pinn_schema2.pdf  used on input line 1649.
+(pdftex.def)             Requested size: 188.97789pt x 70.4602pt.
+<../POPILS/images/sampling2.png, id=449, 515.9275pt x 514.92375pt>
 File: ../POPILS/images/sampling2.png Graphic file (type png)
 <use ../POPILS/images/sampling2.png>
-Package pdftex.def Info: ../POPILS/images/sampling2.png  used on input line 162
-5.
+Package pdftex.def Info: ../POPILS/images/sampling2.png  used on input line 164
+9.
 (pdftex.def)             Requested size: 77.38577pt x 77.23523pt.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1625.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1649.
 
 
 
 [31
 
  <./figures/pinn_schema2.pdf> <../POPILS/images/sampling2.png>]
-<../POPILS/images/spectral_bias.pdf, id=463, 348.43373pt x 95.21472pt>
-File: ../POPILS/images/spectral_bias.pdf Graphic file (type pdf)
-<use ../POPILS/images/spectral_bias.pdf>
-Package pdftex.def Info: ../POPILS/images/spectral_bias.pdf  used on input line
- 1672.
-(pdftex.def)             Requested size: 307.28987pt x 83.97662pt.
+<figures/spectral_bias.pdf, id=461, 1337.99875pt x 411.5375pt>
+File: figures/spectral_bias.pdf Graphic file (type pdf)
+<use figures/spectral_bias.pdf>
+Package pdftex.def Info: figures/spectral_bias.pdf  used on input line 1696.
+(pdftex.def)             Requested size: 307.28987pt x 94.51347pt.
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 1672--1672
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 1696--1696
  [] 
  []
 
-<../POPILS/images/MG_new_color.pdf, id=464, 1637.11626pt x 674.52pt>
+<../POPILS/images/MG_new_color.pdf, id=462, 1637.11626pt x 674.52pt>
 File: ../POPILS/images/MG_new_color.pdf Graphic file (type pdf)
 <use ../POPILS/images/MG_new_color.pdf>
 Package pdftex.def Info: ../POPILS/images/MG_new_color.pdf  used on input line 
-1672.
+1696.
 (pdftex.def)             Requested size: 228.31271pt x 94.06163pt.
 
-Overfull \vbox (6.39433pt too high) detected at line 1672
+Overfull \vbox (16.93118pt too high) detected at line 1696
  []
 
 
 
 [32
 
- <../POPILS/images/spectral_bias.pdf> <../POPILS/images/MG_new_color.pdf>]
-<figures/mscale.pdf, id=506, 1208.515pt x 524.96124pt>
+ <./figures/spectral_bias.pdf> <../POPILS/images/MG_new_color.pdf>]
+<figures/mscale.pdf, id=478, 1208.515pt x 524.96124pt>
 File: figures/mscale.pdf Graphic file (type pdf)
 <use figures/mscale.pdf>
-Package pdftex.def Info: figures/mscale.pdf  used on input line 1735.
+Package pdftex.def Info: figures/mscale.pdf  used on input line 1759.
 (pdftex.def)             Requested size: 241.69872pt x 104.99039pt.
 
 
 [33
 
  <./figures/mscale.pdf>]
-<figures/schema_BCD.pdf, id=517, 1812.7725pt x 849.1725pt>
-File: figures/schema_BCD.pdf Graphic file (type pdf)
-<use figures/schema_BCD.pdf>
-Package pdftex.def Info: figures/schema_BCD.pdf  used on input line 1781.
+<figures/BCD_MG.pdf, id=489, 1812.7725pt x 849.1725pt>
+File: figures/BCD_MG.pdf Graphic file (type pdf)
+<use figures/BCD_MG.pdf>
+Package pdftex.def Info: figures/BCD_MG.pdf  used on input line 1806.
 (pdftex.def)             Requested size: 307.28987pt x 143.94278pt.
 
 
 [34
 
- <./figures/schema_BCD.pdf>]
-<figures/exp_mscale.pdf, id=528, 1857.94125pt x 850.17625pt>
-File: figures/exp_mscale.pdf Graphic file (type pdf)
-<use figures/exp_mscale.pdf>
-Package pdftex.def Info: figures/exp_mscale.pdf  used on input line 1878.
-(pdftex.def)             Requested size: 307.28987pt x 140.6103pt.
+ <./figures/BCD_MG.pdf>]
+<figures/BCD_MG_pb.pdf, id=500, 1473.505pt x 497.86pt>
+File: figures/BCD_MG_pb.pdf Graphic file (type pdf)
+<use figures/BCD_MG_pb.pdf>
+Package pdftex.def Info: figures/BCD_MG_pb.pdf  used on input line 1907.
+(pdftex.def)             Requested size: 307.28987pt x 103.82439pt.
 
 
 [35
 
- <./figures/exp_mscale.pdf>]
+ <./figures/BCD_MG_pb.pdf>]
 
 [36
 
 ]
-<../../sparse_days/FastFourierTransform.png, id=546, 804.00375pt x 171.64125pt>
+<../../sparse_days/FastFourierTransform.png, id=518, 804.00375pt x 171.64125pt>
 
 File: ../../sparse_days/FastFourierTransform.png Graphic file (type png)
 <use ../../sparse_days/FastFourierTransform.png>
 Package pdftex.def Info: ../../sparse_days/FastFourierTransform.png  used on in
-put line 2144.
+put line 2173.
 (pdftex.def)             Requested size: 160.7979pt x 34.32764pt.
 
 
@@ -2028,24 +2034,24 @@ put line 2144.
 File: ../../sparse_days/FastFourierTransform.png Graphic file (type png)
 <use ../../sparse_days/FastFourierTransform.png>
 Package pdftex.def Info: ../../sparse_days/FastFourierTransform.png  used on in
-put line 2144.
+put line 2173.
 (pdftex.def)             Requested size: 160.7979pt x 34.32764pt.
 
 
 [38
 
 ]
-<../../sparse_days/lmra_lu.png, id=559, 922.44624pt x 180.675pt>
+<../../sparse_days/lmra_lu.png, id=531, 922.44624pt x 180.675pt>
 File: ../../sparse_days/lmra_lu.png Graphic file (type png)
 <use ../../sparse_days/lmra_lu.png>
-Package pdftex.def Info: ../../sparse_days/lmra_lu.png  used on input line 2200
+Package pdftex.def Info: ../../sparse_days/lmra_lu.png  used on input line 2229
 .
 (pdftex.def)             Requested size: 239.83037pt x 46.97438pt.
-<../../sparse_days/hadamard.png, id=560, 664.4825pt x 104.39pt>
+<../../sparse_days/hadamard.png, id=532, 664.4825pt x 104.39pt>
 File: ../../sparse_days/hadamard.png Graphic file (type png)
 <use ../../sparse_days/hadamard.png>
-Package pdftex.def Info: ../../sparse_days/hadamard.png  used on input line 220
-0.
+Package pdftex.def Info: ../../sparse_days/hadamard.png  used on input line 222
+9.
 (pdftex.def)             Requested size: 172.76137pt x 27.14075pt.
 
 
@@ -2062,28 +2068,28 @@ Package pdftex.def Info: ../../sparse_days/hadamard.png  used on input line 220
 ]
 
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 23
-76.
+82.
 
-<../../sparse_days/rank1contribution.pdf, id=580, page=4, 594.42076pt x 313.716
+<../../sparse_days/rank1contribution.pdf, id=551, page=4, 594.42076pt x 313.716
 05pt>
 File: ../../sparse_days/rank1contribution.pdf Graphic file (type pdf)
 <use ../../sparse_days/rank1contribution.pdf, page 4>
 Package pdftex.def Info: ../../sparse_days/rank1contribution.pdf , page4 used o
-n input line 2376.
+n input line 2382.
 (pdftex.def)             Requested size: 122.9164pt x 64.86748pt.
 
 
 [42
 
  <../../sparse_days/rank1contribution.pdf>]
-<figures/butterfly_factors.png, id=625, 1335.99126pt x 327.2225pt>
+<figures/butterfly_factors.png, id=596, 1335.99126pt x 327.2225pt>
 File: figures/butterfly_factors.png Graphic file (type png)
 <use figures/butterfly_factors.png>
-Package pdftex.def Info: figures/butterfly_factors.png  used on input line 2425
+Package pdftex.def Info: figures/butterfly_factors.png  used on input line 2431
 .
 (pdftex.def)             Requested size: 275.99193pt x 67.59532pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2425--2425
+Underfull \hbox (badness 10000) in paragraph at lines 2431--2431
 []\OT1/cmss/m/n/10.95 Notable case: but-ter-fly ma-tri-ces
  []
 
@@ -2092,29 +2098,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 2425--2425
 [43
 
  <./figures/butterfly_factors.png>]
-<../../sparse_days/tree_partial_1.pdf, id=633, 394.62782pt x 287.56711pt>
+<../../sparse_days/tree_partial_1.pdf, id=605, 394.62782pt x 287.56711pt>
 File: ../../sparse_days/tree_partial_1.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_1.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_1.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
-<../../sparse_days/tree_partial_2.pdf, id=634, 394.62782pt x 287.56711pt>
+<../../sparse_days/tree_partial_2.pdf, id=606, 394.62782pt x 287.56711pt>
 File: ../../sparse_days/tree_partial_2.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_2.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_2.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
-<../../sparse_days/tree_3.pdf, id=635, 394.62782pt x 287.56711pt>
+<../../sparse_days/tree_3.pdf, id=607, 394.62782pt x 287.56711pt>
 File: ../../sparse_days/tree_3.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_3.pdf>
-Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2527.
+Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2533.
 
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
-<../../sparse_days/balanced_tree.png, id=636, 420.06938pt x 303.63437pt>
+<../../sparse_days/balanced_tree.png, id=608, 420.06938pt x 303.63437pt>
 File: ../../sparse_days/balanced_tree.png Graphic file (type png)
 <use ../../sparse_days/balanced_tree.png>
 Package pdftex.def Info: ../../sparse_days/balanced_tree.png  used on input lin
-e 2527.
+e 2533.
 (pdftex.def)             Requested size: 84.01237pt x 60.72578pt.
 
 
@@ -2124,22 +2130,22 @@ e 2527.
 File: ../../sparse_days/tree_partial_1.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_1.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_1.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_partial_2.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_2.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_2.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_3.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_3.pdf>
-Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2527.
+Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2533.
 
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/balanced_tree.png Graphic file (type png)
 <use ../../sparse_days/balanced_tree.png>
 Package pdftex.def Info: ../../sparse_days/balanced_tree.png  used on input lin
-e 2527.
+e 2533.
 (pdftex.def)             Requested size: 84.01237pt x 60.72578pt.
 
 
@@ -2149,22 +2155,22 @@ e 2527.
 File: ../../sparse_days/tree_partial_1.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_1.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_1.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_partial_2.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_2.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_2.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_3.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_3.pdf>
-Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2527.
+Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2533.
 
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/balanced_tree.png Graphic file (type png)
 <use ../../sparse_days/balanced_tree.png>
 Package pdftex.def Info: ../../sparse_days/balanced_tree.png  used on input lin
-e 2527.
+e 2533.
 (pdftex.def)             Requested size: 84.01237pt x 60.72578pt.
 
 
@@ -2174,22 +2180,22 @@ e 2527.
 File: ../../sparse_days/tree_partial_1.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_1.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_1.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_partial_2.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_2.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_2.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_3.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_3.pdf>
-Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2527.
+Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2533.
 
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/balanced_tree.png Graphic file (type png)
 <use ../../sparse_days/balanced_tree.png>
 Package pdftex.def Info: ../../sparse_days/balanced_tree.png  used on input lin
-e 2527.
+e 2533.
 (pdftex.def)             Requested size: 84.01237pt x 60.72578pt.
 
 
@@ -2199,33 +2205,33 @@ e 2527.
 File: ../../sparse_days/tree_partial_1.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_1.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_1.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_partial_2.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_partial_2.pdf>
 Package pdftex.def Info: ../../sparse_days/tree_partial_2.pdf  used on input li
-ne 2527.
+ne 2533.
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/tree_3.pdf Graphic file (type pdf)
 <use ../../sparse_days/tree_3.pdf>
-Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2527.
+Package pdftex.def Info: ../../sparse_days/tree_3.pdf  used on input line 2533.
 
 (pdftex.def)             Requested size: 107.55098pt x 78.37254pt.
 File: ../../sparse_days/balanced_tree.png Graphic file (type png)
 <use ../../sparse_days/balanced_tree.png>
 Package pdftex.def Info: ../../sparse_days/balanced_tree.png  used on input lin
-e 2527.
+e 2533.
 (pdftex.def)             Requested size: 84.01237pt x 60.72578pt.
 
 
 [48
 
 ]
-<../../sparse_days/DFT_exact.pdf, id=670, 421.575pt x 263.17949pt>
+<../../sparse_days/DFT_exact.pdf, id=642, 421.575pt x 263.17949pt>
 File: ../../sparse_days/DFT_exact.pdf Graphic file (type pdf)
 <use ../../sparse_days/DFT_exact.pdf>
 Package pdftex.def Info: ../../sparse_days/DFT_exact.pdf  used on input line 27
-09.
+15.
 (pdftex.def)             Requested size: 153.64493pt x 95.91714pt.
 
 
@@ -2236,14 +2242,14 @@ Package pdftex.def Info: ../../sparse_days/DFT_exact.pdf  used on input line 27
 [50
 
 ]
-<figures/table_precisions.pdf, id=753, 1170.3725pt x 337.26pt>
+<figures/table_precisions.pdf, id=724, 1170.3725pt x 337.26pt>
 File: figures/table_precisions.pdf Graphic file (type pdf)
 <use figures/table_precisions.pdf>
-Package pdftex.def Info: figures/table_precisions.pdf  used on input line 2855.
+Package pdftex.def Info: figures/table_precisions.pdf  used on input line 2861.
 
 (pdftex.def)             Requested size: 307.28987pt x 88.55008pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 2855.
+nput line 2861.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
@@ -2252,6 +2258,12 @@ nput line 2855.
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc} 
 <./figures/table_precisions.pdf>]
+File: figures/table_precisions.pdf Graphic file (type pdf)
+<use figures/table_precisions.pdf>
+Package pdftex.def Info: figures/table_precisions.pdf  used on input line 2861.
+
+(pdftex.def)             Requested size: 307.28987pt x 88.55008pt.
+
 
 [52
 
@@ -2260,35 +2272,33 @@ nput line 2855.
 [53
 
 ]
-<figures/Newton_MULTIPLE_ETA.pdf, id=775, 584.66428pt x 411.939pt>
-File: figures/Newton_MULTIPLE_ETA.pdf Graphic file (type pdf)
-<use figures/Newton_MULTIPLE_ETA.pdf>
-Package pdftex.def Info: figures/Newton_MULTIPLE_ETA.pdf  used on input line 30
-47.
-(pdftex.def)             Requested size: 142.6949pt x 100.53935pt.
-
-Overfull \vbox (3.55066pt too high) detected at line 3047
- []
-
-
 
 [54
 
- <./figures/Newton_MULTIPLE_ETA.pdf>]
-File: figures/Newton_MULTIPLE_ETA.pdf Graphic file (type pdf)
-<use figures/Newton_MULTIPLE_ETA.pdf>
-Package pdftex.def Info: figures/Newton_MULTIPLE_ETA.pdf  used on input line 30
-47.
-(pdftex.def)             Requested size: 142.6949pt x 100.53935pt.
+]
+<figures/in_etas_2.png, id=752, 591.8913pt x 419.166pt>
+File: figures/in_etas_2.png Graphic file (type png)
+<use figures/in_etas_2.png>
+Package pdftex.def Info: figures/in_etas_2.png  used on input line 3063.
+(pdftex.def)             Requested size: 142.6949pt x 101.056pt.
 
-Overfull \vbox (3.55066pt too high) detected at line 3047
+Overfull \vbox (4.0673pt too high) detected at line 3063
  []
 
 
 
 [55
 
-]
+ <./figures/in_etas_2.png>]
+File: figures/in_etas_2.png Graphic file (type png)
+<use figures/in_etas_2.png>
+Package pdftex.def Info: figures/in_etas_2.png  used on input line 3063.
+(pdftex.def)             Requested size: 142.6949pt x 101.056pt.
+
+Overfull \vbox (4.0673pt too high) detected at line 3063
+ []
+
+
 
 [56
 
@@ -2301,112 +2311,108 @@ Overfull \vbox (3.55066pt too high) detected at line 3047
 [58
 
 ]
-<figures/perspectives3.pdf, id=824, 1845.89626pt x 1048.91875pt>
-File: figures/perspectives3.pdf Graphic file (type pdf)
-<use figures/perspectives3.pdf>
-Package pdftex.def Info: figures/perspectives3.pdf  used on input line 3282.
-(pdftex.def)             Requested size: 307.28987pt x 174.61662pt.
-
 
 [59
 
- <./figures/perspectives3.pdf>]
-<../POPILS/photos/giuseppe.jpeg, id=835, 225.84375pt x 225.84375pt>
-File: ../POPILS/photos/giuseppe.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/giuseppe.jpeg>
-Package pdftex.def Info: ../POPILS/photos/giuseppe.jpeg  used on input line 330
-6.
-(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
-<../POPILS/photos/edgar.jpeg, id=837, 225.84375pt x 225.84375pt>
-File: ../POPILS/photos/edgar.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/edgar.jpeg>
-Package pdftex.def Info: ../POPILS/photos/edgar.jpeg  used on input line 3306.
-(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
-<../POPILS/photos/mael.jpeg, id=839, 271.0125pt x 271.0125pt>
-File: ../POPILS/photos/mael.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/mael.jpeg>
-Package pdftex.def Info: ../POPILS/photos/mael.jpeg  used on input line 3306.
-(pdftex.def)             Requested size: -63.29024pt x 71.13188pt.
-<../POPILS/photos/filippo.jpeg, id=841, 448.67625pt x 448.67625pt>
-File: ../POPILS/photos/filippo.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/filippo.jpeg>
-Package pdftex.def Info: ../POPILS/photos/filippo.jpeg  used on input line 3306
-.
-(pdftex.def)             Requested size: 71.12558pt x 71.13188pt.
-<../POPILS/photos/valentin.png, id=843, 513.92pt x 513.92pt>
-File: ../POPILS/photos/valentin.png Graphic file (type png)
-<use ../POPILS/photos/valentin.png>
-Package pdftex.def Info: ../POPILS/photos/valentin.png  used on input line 3306
-.
-(pdftex.def)             Requested size: 71.12491pt x 71.13188pt.
-<../POPILS/photos/tung2.jpeg, id=845, 555.07375pt x 555.07375pt>
-File: ../POPILS/photos/tung2.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/tung2.jpeg>
-Package pdftex.def Info: ../POPILS/photos/tung2.jpeg  used on input line 3306.
-(pdftex.def)             Requested size: -74.71204pt x 71.13188pt.
-<../POPILS/photos/leon.jpeg, id=847, 225.84375pt x 225.84375pt>
-File: ../POPILS/photos/leon.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/leon.jpeg>
-Package pdftex.def Info: ../POPILS/photos/leon.jpeg  used on input line 3306.
-(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
-<../POPILS/photos/antoine.jpeg, id=849, 334.24875pt x 501.875pt>
-File: ../POPILS/photos/antoine.jpeg Graphic file (type jpg)
-<use ../POPILS/photos/antoine.jpeg>
-Package pdftex.def Info: ../POPILS/photos/antoine.jpeg  used on input line 3306
-.
-(pdftex.def)             Requested size: 47.37082pt x 71.13188pt.
-<../POPILS/photos/lauga.jpg, id=851, 183.68625pt x 276.03125pt>
-File: ../POPILS/photos/lauga.jpg Graphic file (type jpg)
-<use ../POPILS/photos/lauga.jpg>
-Package pdftex.def Info: ../POPILS/photos/lauga.jpg  used on input line 3306.
-(pdftex.def)             Requested size: 47.33406pt x 71.13188pt.
+]
+<figures/perspectives4.pdf, id=780, 1845.89626pt x 985.6825pt>
+File: figures/perspectives4.pdf Graphic file (type pdf)
+<use figures/perspectives4.pdf>
+Package pdftex.def Info: figures/perspectives4.pdf  used on input line 3298.
+(pdftex.def)             Requested size: 307.28987pt x 164.0895pt.
 
 
 [60
+
+ <./figures/perspectives4.pdf>]
+<../POPILS/photos/giuseppe.jpeg, id=791, 225.84375pt x 225.84375pt>
+File: ../POPILS/photos/giuseppe.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/giuseppe.jpeg>
+Package pdftex.def Info: ../POPILS/photos/giuseppe.jpeg  used on input line 332
+2.
+(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
+<../POPILS/photos/edgar.jpeg, id=793, 225.84375pt x 225.84375pt>
+File: ../POPILS/photos/edgar.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/edgar.jpeg>
+Package pdftex.def Info: ../POPILS/photos/edgar.jpeg  used on input line 3322.
+(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
+<../POPILS/photos/mael.jpeg, id=795, 271.0125pt x 271.0125pt>
+File: ../POPILS/photos/mael.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/mael.jpeg>
+Package pdftex.def Info: ../POPILS/photos/mael.jpeg  used on input line 3322.
+(pdftex.def)             Requested size: -63.29024pt x 71.13188pt.
+<../POPILS/photos/filippo.jpeg, id=797, 448.67625pt x 448.67625pt>
+File: ../POPILS/photos/filippo.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/filippo.jpeg>
+Package pdftex.def Info: ../POPILS/photos/filippo.jpeg  used on input line 3322
+.
+(pdftex.def)             Requested size: 71.12558pt x 71.13188pt.
+<../POPILS/photos/valentin.png, id=799, 513.92pt x 513.92pt>
+File: ../POPILS/photos/valentin.png Graphic file (type png)
+<use ../POPILS/photos/valentin.png>
+Package pdftex.def Info: ../POPILS/photos/valentin.png  used on input line 3322
+.
+(pdftex.def)             Requested size: 71.12491pt x 71.13188pt.
+<../POPILS/photos/tung2.jpeg, id=801, 555.07375pt x 555.07375pt>
+File: ../POPILS/photos/tung2.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/tung2.jpeg>
+Package pdftex.def Info: ../POPILS/photos/tung2.jpeg  used on input line 3322.
+(pdftex.def)             Requested size: -74.71204pt x 71.13188pt.
+<../POPILS/photos/leon.jpeg, id=803, 225.84375pt x 225.84375pt>
+File: ../POPILS/photos/leon.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/leon.jpeg>
+Package pdftex.def Info: ../POPILS/photos/leon.jpeg  used on input line 3322.
+(pdftex.def)             Requested size: -90.17369pt x 71.13188pt.
+<../POPILS/photos/antoine.jpeg, id=805, 334.24875pt x 501.875pt>
+File: ../POPILS/photos/antoine.jpeg Graphic file (type jpg)
+<use ../POPILS/photos/antoine.jpeg>
+Package pdftex.def Info: ../POPILS/photos/antoine.jpeg  used on input line 3322
+.
+(pdftex.def)             Requested size: 47.37082pt x 71.13188pt.
+<../POPILS/photos/lauga.jpg, id=807, 183.68625pt x 276.03125pt>
+File: ../POPILS/photos/lauga.jpg Graphic file (type jpg)
+<use ../POPILS/photos/lauga.jpg>
+Package pdftex.def Info: ../POPILS/photos/lauga.jpg  used on input line 3322.
+(pdftex.def)             Requested size: 47.33406pt x 71.13188pt.
+
+
+[61
 
  <../POPILS/photos/giuseppe.jpeg> <../POPILS/photos/edgar.jpeg> <../POPILS/phot
 os/mael.jpeg> <../POPILS/photos/filippo.jpeg> <../POPILS/photos/valentin.png> <
 ../POPILS/photos/tung2.jpeg> <../POPILS/photos/leon.jpeg> <../POPILS/photos/ant
 oine.jpeg> <../POPILS/photos/lauga.jpg>]
-<../../loghi_firme/ENS_foto.jpeg, id=867, 320.19624pt x 158.5925pt>
+<../../loghi_firme/ENS_foto.jpeg, id=824, 320.19624pt x 158.5925pt>
 File: ../../loghi_firme/ENS_foto.jpeg Graphic file (type jpg)
 <use ../../loghi_firme/ENS_foto.jpeg>
 Package pdftex.def Info: ../../loghi_firme/ENS_foto.jpeg  used on input line 33
-23.
+39.
 (pdftex.def)             Requested size: 96.0596pt x 47.57811pt.
-
-
-[61
-
- <../../loghi_firme/ENS_foto.jpeg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 3325.
-
-<figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg, id=876, 1927.2pt x 1022.82124pt>
-File: figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg Graphic file (type jpg)
-<use figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg>
-Package pdftex.def Info: figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg  used on in
-put line 3334.
-(pdftex.def)             Requested size: 307.28987pt x 163.07729pt.
 
 
 [62
 
- <./figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg>]
+ <../../loghi_firme/ENS_foto.jpeg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\translate ' on input line 3341.
+
+<figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg, id=832, 1927.2pt x 1022.82124pt>
+File: figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg Graphic file (type jpg)
+<use figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg>
+Package pdftex.def Info: figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg  used on in
+put line 3350.
+(pdftex.def)             Requested size: 307.28987pt x 163.07729pt.
+
 
 [63
 
-]
-Overfull \vbox (48.36238pt too high) detected at line 3396
- []
-
-
+ <./figures/LEAST-SQUARES_p_k_vs_ev_SHADED.jpg>]
 
 [64
 
 ]
-Overfull \vbox (26.49033pt too high) detected at line 3421
+Overfull \vbox (48.36238pt too high) detected at line 3412
  []
 
 
@@ -2414,8 +2420,7 @@ Overfull \vbox (26.49033pt too high) detected at line 3421
 [65
 
 ]
-Overfull \hbox (52.7102pt too wide) in paragraph at lines 3440--3440
- [] 
+Overfull \vbox (26.49033pt too high) detected at line 3437
  []
 
 
@@ -2423,38 +2428,43 @@ Overfull \hbox (52.7102pt too wide) in paragraph at lines 3440--3440
 [66
 
 ]
+Overfull \hbox (52.7102pt too wide) in paragraph at lines 3456--3456
+ [] 
+ []
 
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 3474.
-
-<../POPILS/images/heat_graph.png, id=905, 418.4433pt x 298.4751pt>
-File: ../POPILS/images/heat_graph.png Graphic file (type png)
-<use ../POPILS/images/heat_graph.png>
-Package pdftex.def Info: ../POPILS/images/heat_graph.png  used on input line 34
-74.
-(pdftex.def)             Requested size: 184.3758pt x 131.51617pt.
 
 
 [67
 
- <../POPILS/images/heat_graph.png>]
+]
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 3490.
+
+<../POPILS/images/heat_graph.png, id=861, 418.4433pt x 298.4751pt>
+File: ../POPILS/images/heat_graph.png Graphic file (type png)
+<use ../POPILS/images/heat_graph.png>
+Package pdftex.def Info: ../POPILS/images/heat_graph.png  used on input line 34
+90.
+(pdftex.def)             Requested size: 184.3758pt x 131.51617pt.
+
 
 [68
 
-]
-<figures/process.pdf, id=919, 972.63374pt x 309.155pt>
-File: figures/process.pdf Graphic file (type pdf)
-<use figures/process.pdf>
-Package pdftex.def Info: figures/process.pdf  used on input line 3508.
-(pdftex.def)             Requested size: 194.5233pt x 61.8299pt.
-
+ <../POPILS/images/heat_graph.png>]
 
 [69
 
- <./figures/process.pdf>]
+]
+<figures/process.pdf, id=874, 972.63374pt x 309.155pt>
+File: figures/process.pdf Graphic file (type pdf)
+<use figures/process.pdf>
+Package pdftex.def Info: figures/process.pdf  used on input line 3524.
+(pdftex.def)             Requested size: 194.5233pt x 61.8299pt.
+
 
 [70
 
-]
+ <./figures/process.pdf>]
 
 [71
 
@@ -2467,15 +2477,19 @@ Package pdftex.def Info: figures/process.pdf  used on input line 3508.
 [73
 
 ]
-<figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg, id=951, 1927.2pt x 1022.82124pt>
+
+[74
+
+]
+<figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg, id=907, 1927.2pt x 1022.82124pt>
 File: figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg Graphic file (type jpg)
 <use figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg>
 Package pdftex.def Info: figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg  used on in
-put line 3627.
+put line 3643.
 (pdftex.def)             Requested size: 307.28987pt x 163.07729pt.
 
 
-[74
+[75
 
  <./figures/LEAST-SQUARES_acc_vs_ev_SHADED.jpg>]
 \tf@nav=\write6
@@ -2496,14 +2510,17 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `slides_HDR2.out' has not changed.
-(rerunfilecheck)             Checksum: 7912857DBBC00DD9BD5367C5BC17EC52;1568.
+(rerunfilecheck)             Checksum: FFAC6E81FB123E97BFACC7EEE1319F47;1364.
  ) 
 Here is how much of TeX's memory you used:
- 43138 strings out of 473190
- 942057 string characters out of 5715799
- 1321811 words of memory out of 5000000
- 65385 multiletter control sequences out of 15000+600000
+ 43148 strings out of 473190
+ 942159 string characters out of 5715799
+ 1322316 words of memory out of 5000000
+ 65394 multiletter control sequences out of 15000+600000
  587518 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,17n,123p,624b,1000s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2513,41 +2530,37 @@ ts/cm/cmbsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfont
 s/cmextra/cmex9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pf
-b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/
-texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
-xlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
-e/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/
-2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive
-/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/
-texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on slides_HDR2.pdf (74 pages, 42496995 bytes).
+nts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss1
+7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.
+pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.p
+fb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pf
+b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></
+usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></
+usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb
+>
+Output written on slides_HDR2.pdf (75 pages, 39614979 bytes).
 PDF statistics:
- 1138 PDF objects out of 1200 (max. 8388607)
- 718 compressed objects within 8 object streams
- 160 named destinations out of 1000 (max. 500000)
- 625 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1092 PDF objects out of 1200 (max. 8388607)
+ 674 compressed objects within 7 object streams
+ 161 named destinations out of 1000 (max. 500000)
+ 622 words of extra memory for PDF output out of 10000 (max. 10000000)
 
